@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
 
@@ -21,6 +22,11 @@ namespace DataStuff
 		}
 
 		public void Delete(int id)
+		{
+			throw new NotImplementedException();
+		}
+
+		public IEnumerable<Pet> GetAllPets()
 		{
 			throw new NotImplementedException();
 		}

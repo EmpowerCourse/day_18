@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace DataStuff
 {
@@ -8,5 +9,6 @@ namespace DataStuff
 		Pet Read(int id);
 		void Update(Pet pet);
 		void Delete(int id);
+		IEnumerable<Pet> GetAllPets();
     }
 }
