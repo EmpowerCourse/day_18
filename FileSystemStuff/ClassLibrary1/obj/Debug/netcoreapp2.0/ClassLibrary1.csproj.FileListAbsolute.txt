@@ -1,0 +1,6 @@
+C:\Users\Derick\Documents\Presentation\Bravo\FileSystemStuff\ClassLibrary1\bin\Debug\netcoreapp2.0\ClassLibrary1.deps.json
+C:\Users\Derick\Documents\Presentation\Bravo\FileSystemStuff\ClassLibrary1\bin\Debug\netcoreapp2.0\ClassLibrary1.dll
+C:\Users\Derick\Documents\Presentation\Bravo\FileSystemStuff\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\Derick\Documents\Presentation\Bravo\FileSystemStuff\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Derick\Documents\Presentation\Bravo\FileSystemStuff\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\Derick\Documents\Presentation\Bravo\FileSystemStuff\ClassLibrary1\obj\Debug\netcoreapp2.0\ClassLibrary1.AssemblyInfo.cs
