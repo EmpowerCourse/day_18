@@ -26,6 +26,14 @@ namespace FileSystemStuff
 			var pet2 = JsonConvert.DeserializeObject<Pet>(read);
 
 			
+			// Proposed Exercise:
+			//  Use a file system folder as a database.
+			//  Create any class you wish (such as Pet), and write many "records", where a single
+			//   record is a single file in the folder.
+			//  Create methods in your application to read and write those classes (in JSON shape).
+			//  Use LINQ to perform queries over objects that are being read from the operating system.
+			//  Be creative!
+
 		}
 
 		static void Example1()
